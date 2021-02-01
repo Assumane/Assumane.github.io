@@ -21,17 +21,24 @@
 
 
 
+
+
+
+
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-0 .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-0 .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-0 .mbr-navbar__items a {
   font-size: 13px;
@@ -70,7 +77,7 @@
 #msg-box3-2f .mbr-article P {
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #msg-box3-2f .mbr-article {
   color: #000000;
@@ -86,13 +93,13 @@
 }
 #msg-box4-2q .mbr-article P {
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #features1-2r P {
   text-align: left;
   color: #000000;
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #msg-box2-10 .mbr-header .mbr-header__text {
   color: #000000;
@@ -100,6 +107,52 @@
   font-family: 'Lora', serif;
 }
 #msg-box2-10 .mbr-article {
+  color: #252525;
+}
+#msg-box4-33 .mbr-header__text {
+  color: #000000;
+  font-family: 'Lora', serif;
+  font-size: 18px;
+}
+#msg-box4-33 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-33 .mbr-article {
+  color: #000000;
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#msg-box4-33 .mbr-article P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+}
+#msg-box4-33 .btn {
+  font-family: 'Lora', serif;
+  font-size: 13px;
+}
+#msg-box3-36 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 17px;
+}
+#msg-box3-36 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-36 .mbr-article {
+  color: #000000;
+}
+#msg-box3-36 .mbr-article P {
+  font-family: 'Lora', serif;
+  font-size: 15px;
+  text-align: center;
+}
+#msg-box2-31 .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Lora', serif;
+}
+#msg-box2-31 .mbr-article {
   color: #252525;
 }
 #msg-box4-2z .mbr-header__text {
@@ -115,16 +168,8 @@
 }
 #msg-box4-2z .mbr-article P {
   font-family: 'Lora', serif;
-  font-size: 16px;
-}
-#msg-box2-31 .mbr-header .mbr-header__text {
-  color: #252525;
+  font-size: 15px;
   text-align: center;
-  font-size: 18px;
-  font-family: 'Lora', serif;
-}
-#msg-box2-31 .mbr-article {
-  color: #252525;
 }
 #video2-32 SMALL {
   font-size: 16px;
@@ -136,7 +181,7 @@
 }
 #features1-2g P {
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
   text-align: left;
   color: #000000;
 }
@@ -151,7 +196,7 @@
 }
 #msg-box4-2m .mbr-header__text {
   color: #000000;
-  text-align: center;
+  text-align: left;
   font-family: 'Lora', serif;
   font-size: 16px;
 }
@@ -163,8 +208,12 @@
 }
 #msg-box4-2m .mbr-article P {
   font-family: 'Lora', serif;
-  font-size: 16px;
-  text-align: left;
+  font-size: 15px;
+  text-align: center;
+}
+#msg-box4-2m .btn {
+  font-family: 'Lora', serif;
+  font-size: 13px;
 }
 #msg-box2-2p .mbr-header .mbr-header__text {
   color: #252525;
@@ -189,20 +238,20 @@
   color: #fff;
 }
 #content5-14 .mbr-article {
-  color: #ffffff;
+  color: #000000;
 }
 #content5-14 .mbr-article P {
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #contacts1-s P {
   font-family: 'Lora', serif;
   color: #000000;
-  font-size: 13px;
+  font-size: 12px;
 }
 #social-buttons2-m .mbr-header__text {
-  font-size: 16px;
+  font-size: 14px;
   font-family: 'Lora', serif;
 }
 
@@ -214,13 +263,13 @@
   font-size: 16px;
 }
 #menu-8.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-8 .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-8 .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-8 .mbr-navbar__items a {
   font-size: 13px;
@@ -230,17 +279,18 @@
   text-align: center;
   font-size: 18px;
   font-family: 'Lora', serif;
+  color: #ffffff;
 }
 #msg-box3-1g .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #msg-box3-1g .mbr-article P {
   text-align: center;
-  font-size: 16px;
+  font-size: 15px;
   font-family: 'Lora', serif;
 }
 #msg-box3-1g .mbr-article {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box2-1k .mbr-header .mbr-header__text {
   color: #252525;
@@ -278,28 +328,29 @@
   font-size: 16px;
 }
 #menu-d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-d .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-d .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-d .mbr-navbar__items a {
   font-size: 13px;
   font-family: 'Lora', serif;
 }
 #msg-box4-2t .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
   font-family: 'Lora', serif;
+  text-align: left;
 }
 #msg-box4-2t .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-2t .mbr-article {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box4-2t .mbr-article P {
   font-family: 'Lora', serif;
@@ -329,13 +380,13 @@
   font-size: 16px;
 }
 #menu-n.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-n .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-n .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-n .mbr-navbar__items a {
   font-size: 13px;
@@ -348,12 +399,12 @@
   color: #ffffff;
 }
 #msg-box4-2v .mbr-article {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box4-2v .mbr-article P {
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #form1-p .mbr-header__text {
   font-size: 17px;
@@ -371,13 +422,13 @@
   font-size: 16px;
 }
 #menu-t.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-t .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-t .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-t .mbr-navbar__items a {
   font-size: 13px;
@@ -398,7 +449,7 @@
 #msg-box4-19 .mbr-article P {
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #content4-x P {
   font-family: 'Lora', serif;
@@ -412,20 +463,20 @@
   font-size: 16px;
 }
 #menu-1b.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-1b .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-1b .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-1b .mbr-navbar__items a {
   font-size: 13px;
   font-family: 'Lora', serif;
 }
 #msg-box4-2s .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Lora', serif;
   font-size: 18px;
 }
@@ -433,7 +484,7 @@
   color: #ffffff;
 }
 #msg-box4-2s .mbr-article {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box4-2s .mbr-article P {
   font-family: 'Lora', serif;
@@ -448,20 +499,20 @@
   font-size: 16px;
 }
 #menu-1o.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-1o .mbr-navbar__section {
-  background: #2969b0;
+  background: #2c82c9;
 }
 #menu-1o .mbr-navbar__hamburger {
-  color: #28324e;
+  color: #2969b0;
 }
 #menu-1o .mbr-navbar__items a {
   font-size: 13px;
   font-family: 'Lora', serif;
 }
 #msg-box4-2u .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Lora', serif;
   font-size: 18px;
 }
@@ -469,11 +520,11 @@
   color: #ffffff;
 }
 #msg-box4-2u .mbr-article {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box4-2u .mbr-article P {
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #msg-box3-1p .mbr-header .mbr-header__text {
   text-align: center;
@@ -486,7 +537,7 @@
 #msg-box3-1p .mbr-article P {
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #msg-box3-1p .mbr-article {
   color: #000000;

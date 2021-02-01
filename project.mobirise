@@ -19,17 +19,19 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": false,
-    "uniqCompNum": 111,
-    "versionPublish": "4.12.3",
+    "uniqCompNum": 115,
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/ooo-128x79-1.png",
+    "favicon": false,
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "cookiesAlert": false,
-    "gdpr": false
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "yv10ew0dfq",
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
@@ -49,13 +51,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -70,11 +72,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -139,10 +141,12 @@
                 "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "<br><br><br>Vista Lateral Direito",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#2c82c9"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-134445-2000x1500.jpg",
@@ -216,20 +220,20 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/estudantes.png.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
-          "title": "<a href=\"index.html#msg-box3-2f\" class=\"text-info\">Sobre nós</a> &nbsp; <a href=\"index.html#msg-box2-12\" class=\"text-info\">Informações</a>&nbsp; &nbsp;<a href=\"index.html#slider-18\" class=\"text-info\">Galeria</a>&nbsp; &nbsp;<a href=\"index.html#map1-r\" class=\"text-info\">Localize-nos</a>",
+          "title": "<a href=\"index.html#msg-box3-2f\" class=\"text-info\">Sobre nós</a> &nbsp; <a href=\"index.html#msg-box2-10\" class=\"text-info text-primary\">Informações</a>&nbsp; &nbsp;<a href=\"index.html#slider-18\" class=\"text-info\">Galeria</a>&nbsp; &nbsp;<a href=\"index.html#map1-r\" class=\"text-info\">Localize-nos</a>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
@@ -263,7 +267,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -297,7 +301,7 @@
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             },
             ".mbr-article": {
               "color": "#000000"
@@ -399,12 +403,12 @@
             ".mbr-article P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Viso-MissoeValores.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Saber mais</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Viso-MissoeValores.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-login mbr-iconfont mbr-iconfont-btn\"></span>Saber mais</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2q"
         },
@@ -420,8 +424,8 @@
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/estudantes-como-fazer-seu-pedido-de-bolsa-de-estudo-se-destacar.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
@@ -575,7 +579,7 @@
               "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           }
         },
@@ -602,7 +606,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -626,11 +630,11 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "31",
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -643,6 +647,185 @@
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img099766-135-20201209-45708-749x500.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Abertura do ano lectivo de 2021 será a 19 de Março",
+          "text": "O Conselho de Ministros anunciou ontem um novo calendário para o ano letivo de 2021, que vai começar em março e terminar em novembro, com exames a decorrer até dezembro.\n<div>\n</div><div><br></div><div>MAPUTO- \"A abertura solene será feita no dia 19 de março e o ano letivo estará organizado em três trimestres: o primeiro entre 22 de março e 11 de junho, o segundo de 21 de junho a 03 de setembro e, por fim, o terceiro trimestre de 03 setembro a 19 de novembro\", declarou porta-voz do Conselho de Ministros, Filimão Suaze. Filimão Suaze falava momentos após a 43.ª sessão do Conselho de Ministros na Presidência da República, em Maputo. As aulas que usualmente arrancam em fevereiro e terminam em novembro, foram suspensas em março devido à pandemia de covid-19 no âmbito do primeiro estado emergência no país.</div><div>\n</div><div><br></div><div>Meses após a suspensão, as autoridades decidiram que os alunos das classes com exame (7.ª, 10.ª e 12.ª) deviam voltar às aulas faseadamente, mas sob fortes medidas de prevenção e mediante a criação de condições de higiene nas escolas.\n</div><div>\n</div><div>Os alunos das classes sem exame continuam em casa e beneficiaram de passagens automáticas para o nível seguinte, no âmbito das medidas que o Governo tem vindo a tomar face à conjuntura imposta pela prevenção e combate à pandemia de covid-19.\n</div><div>\n</div><div>No ensino público, Moçambique conta com um total de 13.337 escolas primárias e 677 escolas secundárias, segundo dados do Ministério da Educação e Desenvolvimento Humano.\n</div><div>\n</div><div>Moçambique contabiliza 136 óbitos e 16.373 casos de infeção pelo novo coronavírus, 88 % dos quais dados como recuperados.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "13px"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://cartamz.com/index.php/sociedade/item/6748-governo-anuncia-novo-calendario-para-o-ano-letivo-de-2021\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-33"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "17px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/anolectivo091220-1140x474.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "MATRÍCULA E INSCRIÇÃO\n<div>\n</div><div>\n</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Caros Pais e Encarregados de Educação!<br></p><p>\n</p><p>As matrículas dos novos ingressos para a 1ª classe do ano lectivo 2021, de todas as crianças, que completam 6 anos de idade em 2021, decorrem de 30 de Novembro de 2020 à 26 de Fevereiro de 2021. Poderão, de igual modo, matricular, nesta classe, todos aqueles com idade até 14 anos que, por qualquer razão, não puderam estudar nos anos anteriores. \n</p><p>\n</p><p>Para a 6ª, 8ª e 11ª classes, as matrículas decorrerão de 26 de Fevereiro de 2021 à 12 de Março de 2021. \n</p><p>\n</p><p>Os alunos internos da 2ª, 3ª, 4ª, 5ª, 7ª, 9ª, 10ª, 12ª classes, Alfabetização e Educação de Adultos realizam as inscrições de 4 de Janeiro de 2021 à 5 de Fevereiro de 2021. \n</p><p>\n</p><p>Caro Pai ou Encarregado de Educação!\n</p><p>\n</p><p>Dirija-se à escola mais próxima e matricule o seu filho ou educando, levando consigo um dos seguintes documentos: \n</p><p>\n</p><p>Certidão de nascimento, cédula pessoal, boletim de nascimento ou bilhete de identidade. \n</p><p>\n</p><p>As matrículas e às inscrições decorrerão durante os dias úteis da semana, das 7h:30minutos às 15h:30minutos. \n</p><p>\n</p><p>A MATRÍCULA E A INSCRIÇÃO DA 1ª À 9ª CLASSE, ALFABETIZAÇÃO E EDUCAÇÃO DE ADULTOS É GRATUITA! NÃO SE PAGA! \n</p><p>\n</p><p>Vamo-nos Proteger da COVID-19, observando o distanciamento físico! \n</p><p>\n</p><p><i>“Por Uma Educação Inclusiva, Patriótica e de Qualidade”​</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-36"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "text-align": "center",
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Dicas Covid-19",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-31"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "25",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20191025-134540-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -687,7 +870,8 @@
             ".mbr-article P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px",
+              "text-align": "center"
             }
           },
           "headerAlign": "left",
@@ -695,48 +879,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2z"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525",
-              "text-align": "center",
-              "font-size": "18px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Dicas Covid-19",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-31"
         },
         {
           "_styles": {
@@ -967,7 +1109,7 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px",
+              "font-size": "15px",
               "text-align": "left",
               "color": "#000000"
             },
@@ -1069,7 +1211,7 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#000000",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "16px"
@@ -1083,13 +1225,18 @@
             ".mbr-article P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px",
-              "text-align": "left"
+              "font-size": "15px",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "13px"
             }
           },
-          "headerAlign": "center",
+          "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Sala-deTICs.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Saber mais</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Sala-deTICs.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-login mbr-iconfont mbr-iconfont-btn\"></span>Saber mais</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2m"
         },
@@ -1154,7 +1301,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1198,13 +1345,13 @@
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-article P": {
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -1214,9 +1361,9 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20191025-133812-2000x1076.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/estudantes-como-fazer-seu-pedido-de-bolsa-de-estudo-se-destacar.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1226,11 +1373,11 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.4"
           },
           "title": "",
-          "text": "<p>Venha Formar-se na Escola Secundária de Nampula e obtenha uma Formação de Qualidade e Excelência</p>",
+          "text": "<p><i>Venha Formar-se na Escola Secundária de Nampula e obtenha uma Formação de Qualidade e Excelência</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1269,7 +1416,7 @@
             }
           },
           "text1": "Endereço<br>\nMoçambique-Nampula<br>\nCidade de Nampula<br><br>A Escola Secundária de Nampula localiza-se na cidade de Nampula, posto administrativo de\n<br>Muhala, no Bairro central urbano, na avenida Eduardo Mondlane<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:Assumanemartinho1@gmail.com\" class=\"text-info\">Assumanemartinho1@gmail.com</a><br>Telefone:<a href=\"tel: (+258) 848860596\" class=\"text-info\"> (+258) 848860596</a><br><br>@2020 Escola Secundária de Nampula, todos os direitos reservados",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:Assumanemartinho1@gmail.com\" class=\"text-info\">Assumanemartinho1@gmail.com</a><br>Telefone:<a href=\"tel: (+258) 848860596\" class=\"text-info\"> (+258) 848860596</a><br><br>@2021 Escola Secundária de Nampula, todos os direitos reservados",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1281,7 +1428,7 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#000000",
-              "font-size": "13px"
+              "font-size": "12px"
             }
           }
         },
@@ -1290,11 +1437,11 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20191025-134757-2000x1500.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/estudantes-como-fazer-seu-pedido-de-bolsa-de-estudo-se-destacar.jpg",
+            "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "overlay": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
             "overlayColor": "#c1c1c1",
             "overlayOpacity": "0.8"
           },
@@ -1307,7 +1454,7 @@
           "_anchor": "social-buttons2-m",
           "_styles": {
             ".mbr-header__text": {
-              "font-size": "16px",
+              "font-size": "14px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -1331,13 +1478,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -1352,11 +1499,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1386,19 +1533,20 @@
               "text-align": "center",
               "font-size": "18px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#ffffff"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
             ".mbr-article P": {
               "text-align": "center",
-              "font-size": "16px",
+              "font-size": "15px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -1407,11 +1555,11 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpeg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
@@ -1420,8 +1568,8 @@
             },
             "darkBackground": false,
             "overlay": true,
-            "overlayColor": "#cccccc",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.4"
           },
           "title": "Quadro de Honra",
           "meta": "By John Smith posted July 30, 2015",
@@ -1753,13 +1901,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -1774,11 +1922,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1813,18 +1961,18 @@
             "imageSize": "20",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73448-2000x1500.jpeg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -1842,7 +1990,7 @@
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "linkInNewWindow": false,
               "name": "question",
-              "family": "MobiriseIcons",
+              "family": "mobirise-icons-bold",
               "link": "",
               "size": 0,
               "active": true
@@ -1855,16 +2003,17 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "18px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
               "font-family": "'Lora', serif",
@@ -1924,7 +2073,7 @@
           "title": "Historial da Escola",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><br></p><p>\n</p><p>Concluídas as obras do 1° pavilhão, em 1971, a secção Liceal (7ª, 8ª, 9ª, 10ª e 11ª classe), passou para as actuais instalações da Escola Secundaria de Nampula (1° pavilhão).\n</p><p>De recordar que até ao fim do ano lectivo de 1968/69, as classes eram designadas por “Anos” e por “Ciclos”, como se segue:\n</p><p>1° e 2° - Anos 1° Ciclo Liceal;\n</p><p>3°, 4° e 5° Anos- Anos - 2° Ciclo Liceal;\n</p><p>6° e 7° - Anos- 3° Ciclo Liceal.</p><p>\n</p><p>Ainda, este ultimo (Ciclo) estava dividido em “Alíneas” das quais agrupam a matéria especifica do curso que o aluno pretendesse seguir no futuro havendo, contudo, disciplinas de natureza obrigatória em todas as alíneas como por exemplo, a “Filosofia” e a “Organização Política e Administrativa da Nação”.</p><p>Com advento da independência Nacional, estas disciplinas foram obtidas.\n</p><p>No ano lectivo de 1968/70, os 1° e 2° anos dos liceus e das escolas técnicas profissionais passaram a funcionar em conjunto com a designação de “Ciclo Unificado” ou “Ciclo Preparatório do Ensino Secundário”. Nessa altura foram abolidos os “Exames de Admissão” aos liceus ou as escolas técnicas que até então funcionavam.\n</p><p>Este curso era ministrado nas actuais instalações da escola e Instituto Industrial “3 de Fevereiro” de Nampula, na altura designada “NEUTEL DE ABREU”.\n</p><p>Além das disciplinas teóricas, ministravam-se também (na Escola Preparatória) as praticas, que eram o “Desenho” e os “Trabalhos manuais”.\n</p><p>Findas as obras do 2° Pavilhão desta escola, em 1971, a secção feminina da escola Preparatória, foi desdobrada da Escola 3 de Fevereiro para esta escola passando a chamar-se “Escola Preparatória Feminina de Nampula”.\n</p><p>A Escola Secundária de Nampula já funcionou com docentes de varias nacionalidades, a saber Portugueses, Moçambicanos, Holandeses, Ingleses, Cubanos, Soviéticos e Vietnamitas\n</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/historico-daESN.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Baixar Historial</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/historico-daESN.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-download-2 mbr-iconfont mbr-iconfont-btn\"></span>Baixar Historial</a>",
           "_tags": [
             "Theme"
           ],
@@ -1949,13 +2098,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -1970,11 +2119,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2009,18 +2158,18 @@
             "imageSize": "23",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73451-2000x1500.jpeg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -2038,14 +2187,14 @@
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "linkInNewWindow": false,
               "name": "letter",
-              "family": "MobiriseIcons",
+              "family": "mobirise-icons-bold",
               "link": "",
               "size": 0,
               "active": true
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><br></p><p>Entre em contacto conosco agora e exponha sua opinião sobre o serviço que oferecemos, sua participação é de extrema importância pra nós. Preencha adequadamente o formulário abaixo</p>",
+          "text": "<p><br></p><p>&nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><p>Entre em contacto conosco agora e exponha sua opinião sobre o serviço que oferecemos, sua participação é de extrema importância pra nós. Preencha adequadamente o formulário abaixo</p>",
           "_tags": [
             "Theme"
           ],
@@ -2057,13 +2206,13 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "headerAlign": "left",
@@ -2151,13 +2300,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -2172,11 +2321,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2213,7 +2362,7 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
@@ -2221,8 +2370,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#c1c1c1",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -2269,7 +2418,7 @@
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "headerAlign": "center",
@@ -2387,7 +2536,7 @@
             }
           },
           "title4": "12ª Classe",
-          "caption4": "<a href=\"assets/files/Matemtica-12Classe.pdf\" target=\"_blank\">Matemática</a> \n<br><a href=\"assets/files/Portugus-12Classe.pdf\" target=\"_blank\">Português </a>\n<br><a href=\"assets/files/Geografia-12ClasseLongmanMo..pdf\" target=\"_blank\">Geografia </a>\n<br><a href=\"assets/files/Ingls-12ClasseTextosEditores.pdf\" target=\"_blank\">Inglês </a>\n<br><a href=\"assets/files/Fsica--12ClasseLongmanMoz.pdf\" target=\"_blank\">Física </a>\n<br><a href=\"assets/files/Qumica-12Classe.pdf\" target=\"_blank\">Química</a> \n<br><a href=\"assets/files/Biologia-12Classe.pdf\" target=\"_blank\">Biologia</a> \n<br><a href=\"assets/files/Filosofia-12Classe.pdf\" target=\"_blank\">Filosofia</a> \n<br><a href=\"assets/files/Histria-12ClassePluralEditores.pdf\" target=\"_blank\">História </a>\n<br><a href=\"assets/files/DGD--12ClasseTextoEditores.pdf\" target=\"_blank\">Desenho Geo Descritiva</a>",
+          "caption4": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1-gW-8HQp0GHA-9RndNGgYGoy3hQO_4cH\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1KGEVeNpIzsjtNN9zJ71rzVH87Sk4McFy\" class=\"text-primary\" target=\"_blank\">Português </a>\n<br>Geografia \n<br>Inglês \n<br>Física \n<br>Química \n<br>Biologia \n<br>Filosofia \n<br>História \n<br>Desenho Geo Descritiva",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2458,13 +2607,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -2479,11 +2628,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2518,18 +2667,18 @@
             "imageSize": "24",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73450-2000x1500.jpeg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -2554,13 +2703,13 @@
             }
           },
           "title": "Atenção Pais e encarregados de educação&nbsp;",
-          "text": "<p>Este espaço está reservado a solicitações de encarregados de educação para reuniões para tratar de assuntos que tem a ver com os seus educandos\n</p><p>Brevemente lançaremos alguma solicitação dos pais/Encarregados!</p>",
+          "text": "<p>Este espaço está reservado a solicitações de encarregados de educação para reuniões para tratar de assuntos que tem a ver com os seus educandos\n</p><p><br></p><p>Brevemente lançaremos alguma solicitação dos pais/Encarregados!</p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -2569,7 +2718,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
               "font-family": "'Lora', serif",
@@ -2601,13 +2750,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__section": {
-              "background": "#2969b0"
+              "background": "#2c82c9"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#28324e"
+              "color": "#2969b0"
             },
             ".mbr-navbar__items a": {
               "font-size": "13px",
@@ -2622,11 +2771,11 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#2969b0",
-            "hamburgerColor": "#28324e"
+            "color": "#2c82c9",
+            "hamburgerColor": "#2969b0"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Pagina Principal</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">Escola-Comunidade</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">Regualmentos</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Historial</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">Biblioteca</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">Eventos</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">Contacte-nos</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inicial</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2661,18 +2810,18 @@
             "imageSize": "24",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73449-2000x1500.jpeg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -2703,7 +2852,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "18px"
@@ -2712,12 +2861,12 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "headerAlign": "left",
@@ -2741,7 +2890,7 @@
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "15px"
             },
             ".mbr-article": {
               "color": "#000000"
@@ -2772,7 +2921,7 @@
           "title": "Regulamento Interno da Escola",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><br></p><p>2. Na interpretação deste Regulamento Interno devem ser tidas em conta todas as\n</p><p>\n</p><p>normas legais e regulamentares em vigor, pressupondo a natureza essencialmente\n</p><p>\n</p><p>pedagógica dos direitos e deveres nele consagrados;\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>3. Todos os membros da comunidade escolar gozam de direito e estão sujeitos aos\n</p><p>\n</p><p>deveres consignados neste regulamento;\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>4. Todos têm direito a utilizar as instalações da escola em condições a definir, sempre\n</p><p>\n</p><p>que a capacidade e funcionalidade o permitam;\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>5. Argumentar o desconhecimento do regulamento não poderá servir de atenuante em \n</p><p>\n</p><p>qualquer caso de conflito ou suposta infracção;\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>6. A violação deste regulamento implica a responsabilidade disciplinar para quem a ele\n</p><p>\n</p><p>está sujeito e proibição de utilização das instalações/serviços nos restantes casos;\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>7. Será arquivada, para consulta, cópia de regulamento interno na biblioteca da escola.\n</p><p>\n</p><p>Em digital, o documento estará disponível nas pastas das disciplinas e de direcção;\n</p><p>\n</p><p>\n</p><p>\n</p><p><br></p><p>8. Será entregue uma síntese do regulamento interno aos alunos que se matricularem na\n</p><p>\n</p><p>escola pela primeira vez.</p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Repblica-deMoambique.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Baixar Regulamento</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/Repblica-deMoambique.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-download-2 mbr-iconfont mbr-iconfont-btn\"></span>Baixar Regulamento</a>",
           "_tags": [
             "Theme"
           ],
