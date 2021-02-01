@@ -739,7 +739,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/anolectivo091220-1140x474.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
