@@ -47,6 +47,7 @@
 #slider-18 P {
   color: #efefef;
   font-family: 'Lora', serif;
+  text-align: left;
 }
 #msg-box3-2x .mbr-header .mbr-header__text {
   text-align: center;
@@ -376,6 +377,7 @@
 
 
 
+
 #menu-n .mbr-brand__name {
   font-size: 16px;
 }
@@ -394,6 +396,8 @@
 }
 #msg-box4-2v .mbr-header__text {
   color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 18px;
 }
 #msg-box4-2v .mbr-header__subtext {
   color: #ffffff;
@@ -435,16 +439,16 @@
   font-family: 'Lora', serif;
 }
 #msg-box4-19 .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Lora', serif;
 }
 #msg-box4-19 .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-19 .mbr-article {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box4-19 .mbr-article P {
   text-align: center;

@@ -112,7 +112,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190910-73140-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -120,7 +120,9 @@
                 "contentAlign": "left",
                 "text": "<br><br><br><br><br><br>Vista Frontal da Escola&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false
+                "overlay": false,
+                "overlayOpacity": "0",
+                "overlayColor": "#2969b0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190910-73342-2000x1500.jpg",
@@ -136,7 +138,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -164,7 +166,7 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-134540-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
@@ -195,7 +197,8 @@
             "P": {
               "color": "#efefef",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
             }
           }
         },
@@ -368,10 +371,11 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20190910-73140-2000x1500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -753,7 +757,7 @@
           },
           "title": "MATRÍCULA E INSCRIÇÃO\n<div>\n</div><div>\n</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Caros Pais e Encarregados de Educação!<br></p><p>\n</p><p>As matrículas dos novos ingressos para a 1ª classe do ano lectivo 2021, de todas as crianças, que completam 6 anos de idade em 2021, decorrem de 30 de Novembro de 2020 à 26 de Fevereiro de 2021. Poderão, de igual modo, matricular, nesta classe, todos aqueles com idade até 14 anos que, por qualquer razão, não puderam estudar nos anos anteriores. \n</p><p>\n</p><p>Para a 6ª, 8ª e 11ª classes, as matrículas decorrerão de 26 de Fevereiro de 2021 à 12 de Março de 2021. \n</p><p>\n</p><p>Os alunos internos da 2ª, 3ª, 4ª, 5ª, 7ª, 9ª, 10ª, 12ª classes, Alfabetização e Educação de Adultos realizam as inscrições de 4 de Janeiro de 2021 à 5 de Fevereiro de 2021. \n</p><p>\n</p><p>Caro Pai ou Encarregado de Educação!\n</p><p>\n</p><p>Dirija-se à escola mais próxima e matricule o seu filho ou educando, levando consigo um dos seguintes documentos: \n</p><p>\n</p><p>Certidão de nascimento, cédula pessoal, boletim de nascimento ou bilhete de identidade. \n</p><p>\n</p><p>As matrículas e às inscrições decorrerão durante os dias úteis da semana, das 7h:30minutos às 15h:30minutos. \n</p><p>\n</p><p>A MATRÍCULA E A INSCRIÇÃO DA 1ª À 9ª CLASSE, ALFABETIZAÇÃO E EDUCAÇÃO DE ADULTOS É GRATUITA! NÃO SE PAGA! \n</p><p>\n</p><p>Vamo-nos Proteger da COVID-19, observando o distanciamento físico! \n</p><p>\n</p><p><i>“Por Uma Educação Inclusiva, Patriótica e de Qualidade”​</i></p>",
+          "text": "<p>Caros Pais e Encarregados de Educação!<br></p><p>\n</p><p>As matrículas dos novos ingressos para a 1ª classe do ano lectivo 2021, de todas as crianças, que completam 6 anos de idade em 2021, decorrem de 30 de Novembro de 2020 à 26 de Fevereiro de 2021. Poderão, de igual modo, matricular, nesta classe, todos aqueles com idade até 14 anos que, por qualquer razão, não puderam estudar nos anos anteriores. \n</p><p>\n</p><p>Para a 6ª, 8ª e 11ª classes, as matrículas decorrerão de 26 de Fevereiro de 2021 à 12 de Março de 2021. \n</p><p>\n</p><p>Os alunos internos da 2ª, 3ª, 4ª, 5ª, 7ª, 9ª, 10ª, 12ª classes, Alfabetização e Educação de Adultos realizam as inscrições de 4 de Janeiro de 2021 à 5 de Fevereiro de 2021. \n</p><p>\n</p><p>Caro Pai ou Encarregado de Educação!\n</p><p>\n</p><p>Dirija-se à escola mais próxima e matricule o seu filho ou educando, levando consigo um dos seguintes documentos: \n</p><p>\n</p><p>Certidão de nascimento, cédula pessoal, boletim de nascimento ou bilhete de identidade. \n</p><p>\n</p><p>As matrículas e às inscrições decorrerão durante os dias úteis da semana, das 7h:30minutos às 15h:30minutos. \n</p><p>\n</p><p>A MATRÍCULA E A INSCRIÇÃO DA 1ª À 9ª CLASSE, ALFABETIZAÇÃO E EDUCAÇÃO DE ADULTOS É GRATUITA! NÃO SE PAGA! \n</p><p>\n</p><p>Vamo-nos Proteger da COVID-19, observando o distanciamento físico! \n</p><p>\n</p><p><i>“<b>Por Uma Educação Inclusiva, Patriótica e de Qualidade</b>”​</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1972,7 +1976,7 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -1997,7 +2001,7 @@
             }
           },
           "title": "Historial da Escola",
-          "text": "<p>A Escola Secundária de Nampula começou a funcionar no longínquo ano de 1962, nas instalações da actual Escola Primaria completa 7 de Abril com a designação de “ LICEU NACIONAL DE NAMPULA”.\n</p><p>\n</p><p>Em 1964, os serviços de educação ocupam em regime de arrendamento e edifício onde funciona actualmente a Direcção Provincial de Educação e Cultura de Nampula tendo como patrono o Almirante Português GAGO COUTINHO nome do qual passou a chamar-se.\n</p><p>\n</p>",
+          "text": "<p>A Escola Secundária de Nampula começou a funcionar no longínquo ano de 1962, nas instalações da actual Escola Primaria completa 7 de Abril com a designação de “ <i>LICEU NACIONAL DE NAMPULA</i>”.\n</p><p>\n</p><p>Em 1964, os serviços de educação ocupam em regime de arrendamento e edifício onde funciona actualmente a Direcção Provincial de Educação e Cultura de Nampula tendo como patrono o Almirante Português GAGO COUTINHO nome do qual passou a chamar-se.\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -2072,7 +2076,7 @@
           },
           "title": "Historial da Escola",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>\n</p><p>Concluídas as obras do 1° pavilhão, em 1971, a secção Liceal (7ª, 8ª, 9ª, 10ª e 11ª classe), passou para as actuais instalações da Escola Secundaria de Nampula (1° pavilhão).\n</p><p>De recordar que até ao fim do ano lectivo de 1968/69, as classes eram designadas por “Anos” e por “Ciclos”, como se segue:\n</p><p>1° e 2° - Anos 1° Ciclo Liceal;\n</p><p>3°, 4° e 5° Anos- Anos - 2° Ciclo Liceal;\n</p><p>6° e 7° - Anos- 3° Ciclo Liceal.</p><p>\n</p><p>Ainda, este ultimo (Ciclo) estava dividido em “Alíneas” das quais agrupam a matéria especifica do curso que o aluno pretendesse seguir no futuro havendo, contudo, disciplinas de natureza obrigatória em todas as alíneas como por exemplo, a “Filosofia” e a “Organização Política e Administrativa da Nação”.</p><p>Com advento da independência Nacional, estas disciplinas foram obtidas.\n</p><p>No ano lectivo de 1968/70, os 1° e 2° anos dos liceus e das escolas técnicas profissionais passaram a funcionar em conjunto com a designação de “Ciclo Unificado” ou “Ciclo Preparatório do Ensino Secundário”. Nessa altura foram abolidos os “Exames de Admissão” aos liceus ou as escolas técnicas que até então funcionavam.\n</p><p>Este curso era ministrado nas actuais instalações da escola e Instituto Industrial “3 de Fevereiro” de Nampula, na altura designada “NEUTEL DE ABREU”.\n</p><p>Além das disciplinas teóricas, ministravam-se também (na Escola Preparatória) as praticas, que eram o “Desenho” e os “Trabalhos manuais”.\n</p><p>Findas as obras do 2° Pavilhão desta escola, em 1971, a secção feminina da escola Preparatória, foi desdobrada da Escola 3 de Fevereiro para esta escola passando a chamar-se “Escola Preparatória Feminina de Nampula”.\n</p><p>A Escola Secundária de Nampula já funcionou com docentes de varias nacionalidades, a saber Portugueses, Moçambicanos, Holandeses, Ingleses, Cubanos, Soviéticos e Vietnamitas\n</p><p><br></p>",
+          "text": "<p><br></p><p>\n</p><p>Concluídas as obras do 1° pavilhão, em 1971, a secção Liceal (7ª, 8ª, 9ª, 10ª e 11ª classe), passou para as actuais instalações da Escola Secundaria de Nampula (1° pavilhão).\n</p><p>De recordar que até ao fim do ano lectivo de 1968/69, as classes eram designadas por “Anos” e por “Ciclos”, como se segue:\n</p><p>1° e 2° - Anos 1° Ciclo Liceal;\n</p><p>3°, 4° e 5° Anos- Anos - 2° Ciclo Liceal;\n</p><p>6° e 7° - Anos- 3° Ciclo Liceal.</p><p>\n</p><p>Ainda, este ultimo (Ciclo) estava dividido em “Alíneas” das quais agrupam a matéria especifica do curso que o aluno pretendesse seguir no futuro havendo, contudo, disciplinas de natureza obrigatória em todas as alíneas como por exemplo, a “Filosofia” e a “Organização Política e Administrativa da Nação”.</p><p>Com advento da independência Nacional, estas disciplinas foram obtidas.\n</p><p>No ano lectivo de 1968/70, os 1° e 2° anos dos liceus e das escolas técnicas profissionais passaram a funcionar em conjunto com a designação de “Ciclo Unificado” ou “Ciclo Preparatório do Ensino Secundário”. Nessa altura foram abolidos os “Exames de Admissão” aos liceus ou as escolas técnicas que até então funcionavam.\n</p><p>Este curso era ministrado nas actuais instalações da escola e Instituto Industrial “3 de Fevereiro” de Nampula, na altura designada “<i>NEUTEL DE ABREU</i>”.\n</p><p>Além das disciplinas teóricas, ministravam-se também (na Escola Preparatória) as praticas, que eram o “Desenho” e os “Trabalhos manuais”.\n</p><p>Findas as obras do 2° Pavilhão desta escola, em 1971, a secção feminina da escola Preparatória, foi desdobrada da Escola 3 de Fevereiro para esta escola passando a chamar-se “Escola Preparatória Feminina de Nampula”.\n</p><p>A Escola Secundária de Nampula já funcionou com docentes de varias nacionalidades, a saber Portugueses, Moçambicanos, Holandeses, Ingleses, Cubanos, Soviéticos e Vietnamitas\n</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/historico-daESN.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-download-2 mbr-iconfont mbr-iconfont-btn\"></span>Baixar Historial</a>",
           "_tags": [
             "Theme"
@@ -2150,7 +2154,7 @@
         {
           "_inherit": "msg-box5",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
@@ -2193,14 +2197,17 @@
               "active": true
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><br></p><p>&nbsp; &nbsp; &nbsp;&nbsp;</p><p><br></p><p>Entre em contacto conosco agora e exponha sua opinião sobre o serviço que oferecemos, sua participação é de extrema importância pra nós. Preencha adequadamente o formulário abaixo</p>",
+          "title": "Contacto",
+          "text": "<p>Entre em contacto conosco agora e exponha sua opinião sobre o serviço que oferecemos, sua participação é de extrema importância pra nós. Preencha adequadamente o formulário abaixo<br></p>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -2360,10 +2367,10 @@
             "imageSize": "39",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2371,7 +2378,7 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -2402,9 +2409,9 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "center",
-              "font-size": "20px",
+              "font-size": "18px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -2412,7 +2419,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-article P": {
               "text-align": "center",
@@ -2476,7 +2483,7 @@
             }
           },
           "title1": "9ª Classe",
-          "caption1": "Matemática \n<br>Português \n<br>Geografia \n<br>Inglês \n<br>Física \n<br>Química \n<br>Biologia \n<br>Filosofia \n<br>História \n<br>ED. Visual&nbsp;",
+          "caption1": "Matemática \n<br>Português \n<br>Geografia \n<br>Inglês \n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1QAR6DGFPr-tdvClZtL1Z3i7uUJ1xhXEZ\" class=\"text-primary\" target=\"_blank\">Física </a>\n<br>Química \n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1-kxOIBCwYVCKnMd7oJinqCmCGFoA8zEM\" class=\"text-primary\" target=\"_blank\">Biologia </a>\n<br>Filosofia \n<br>História \n<br>ED. Visual&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2496,7 +2503,7 @@
             }
           },
           "title2": "10ª Classe",
-          "caption2": "Matemática \n<br>Português \n<br>Geografia \n<br>Inglês \n<br>Física \n<br>Química \n<br>Biologia \n<br>Filosofia \n<br>História \n<br>ED. Visual&nbsp;",
+          "caption2": "Matemática \n<br>Português \n<br>Geografia \n<br>Inglês \n<br><a href=\"https://drive.google.com/uc?id=1I8Dn1KhhgLdd1M7rXYvYNCJNLBJ-eFtm&amp;export=download\" class=\"text-primary\" target=\"_blank\">Física </a>\n<br><a href=\"https://drive.google.com/file/d/12uSIPRjDefxb9Y2UzteGHPXVP0ec5TxG/view?usp=sharing\" class=\"text-primary\" target=\"_blank\">Química </a>\n<br>Biologia \n<br>Filosofia \n<br>História \n<br>ED. Visual&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2516,7 +2523,7 @@
             }
           },
           "title3": "11ª Classe",
-          "caption3": "Matemática \n<br>Português \n<br>Geografia \n<br>Inglês \n<br>Física \n<br>Química \n<br>Biologia \n<br>Filosofia \n<br>História \n<br>DGD&nbsp;",
+          "caption3": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1YsGM2p4H0pKxKToVqZ_qRMD61agMhUIA\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br>Português \n<br><a href=\"https://estudosmz.blogspot.com/2021/01/baixar-livro-de-geografia-11-classe-pre.html\" class=\"text-primary\" target=\"_blank\">Geografia </a>\n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=12PNrMzrg0UzYLL_j279Ciyvwq-6UJK7Z\" class=\"text-primary\" target=\"_blank\">Inglês </a>\n<br>Física \n<br>Química \n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1D3BWR9BS0byTvhSg0KoSU_q5UbE3Ianh\" class=\"text-primary\" target=\"_blank\">Biologia </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1We61_FX0VP0N6lV9Wcj3pCUKEiiOPm3R\" class=\"text-primary\" target=\"_blank\">Filosofia </a>\n<br>História \n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1nvzrIw10TLNBr6ibz-7PD5aQsT1K8IE5\" class=\"text-primary\" target=\"_blank\">TICs</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2536,7 +2543,7 @@
             }
           },
           "title4": "12ª Classe",
-          "caption4": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1-gW-8HQp0GHA-9RndNGgYGoy3hQO_4cH\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1KGEVeNpIzsjtNN9zJ71rzVH87Sk4McFy\" class=\"text-primary\" target=\"_blank\">Português </a>\n<br>Geografia \n<br>Inglês \n<br>Física \n<br>Química \n<br>Biologia \n<br>Filosofia \n<br>História \n<br>Desenho Geo Descritiva",
+          "caption4": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1-gW-8HQp0GHA-9RndNGgYGoy3hQO_4cH\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1KGEVeNpIzsjtNN9zJ71rzVH87Sk4McFy\" class=\"text-primary\" target=\"_blank\">Português </a>\n<br><a href=\"https://drive.google.com/uc?id=1pPDeS_LxyDo9xjRQn0tH1U-8TJa8ULPt&amp;export=download\" class=\"text-primary\" target=\"_blank\">Geografia </a>\n<br>Inglês \n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1fNkWBQioKEXtTvengzKxDRDIMAfHZ93_\" class=\"text-primary\" target=\"_blank\">Física </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1awi3tWNMOt0B0q0CPsmCeBQpcGNggVvu\" class=\"text-primary\" target=\"_blank\">Química </a>\n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1CmM-ZMkSTXNvEAVoSYLXu6uxv4-JIZqE\" class=\"text-primary\" target=\"_blank\">Biologia </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1I39dJYRmqRcRJcRrIQSSQEBKeEjyu_gg\" class=\"text-primary\" target=\"_blank\">Filosofia </a>\n<br>História \n<br><a href=\"https://download2038.mediafire.com/o3bfnhrjkldg/fomelpaghm4hifh/Desenho+e+Geometria+Descritiva+%28DGD%29+-+12%C2%AA+Classe.pdf\" class=\"text-primary\" target=\"_blank\">Desenho Geometria Descritiva</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2703,7 +2710,7 @@
             }
           },
           "title": "Atenção Pais e encarregados de educação&nbsp;",
-          "text": "<p>Este espaço está reservado a solicitações de encarregados de educação para reuniões para tratar de assuntos que tem a ver com os seus educandos\n</p><p><br></p><p>Brevemente lançaremos alguma solicitação dos pais/Encarregados!</p>",
+          "text": "<p>Este espaço está reservado a solicitações de encarregados de educação para reuniões para tratar de assuntos que tem a ver com os seus educandos\n</p><p><br></p><p><i><b>Brevemente lançaremos alguma solicitação dos pais/Encarregados!</b></i></p>",
           "_tags": [
             "Theme"
           ],
@@ -2821,7 +2828,7 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
