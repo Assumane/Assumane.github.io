@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-20_2054",
+    "name": "Escola Secundaria de Nampula",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -757,7 +757,7 @@
           },
           "title": "MATRÍCULA E INSCRIÇÃO\n<div>\n</div><div>\n</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Caros Pais e Encarregados de Educação!<br></p><p>\n</p><p>As matrículas dos novos ingressos para a 1ª classe do ano lectivo 2021, de todas as crianças, que completam 6 anos de idade em 2021, decorrem de 30 de Novembro de 2020 à 26 de Fevereiro de 2021. Poderão, de igual modo, matricular, nesta classe, todos aqueles com idade até 14 anos que, por qualquer razão, não puderam estudar nos anos anteriores. \n</p><p>\n</p><p>Para a 6ª, 8ª e 11ª classes, as matrículas decorrerão de 26 de Fevereiro de 2021 à 12 de Março de 2021. \n</p><p>\n</p><p>Os alunos internos da 2ª, 3ª, 4ª, 5ª, 7ª, 9ª, 10ª, 12ª classes, Alfabetização e Educação de Adultos realizam as inscrições de 4 de Janeiro de 2021 à 5 de Fevereiro de 2021. \n</p><p>\n</p><p>Caro Pai ou Encarregado de Educação!\n</p><p>\n</p><p>Dirija-se à escola mais próxima e matricule o seu filho ou educando, levando consigo um dos seguintes documentos: \n</p><p>\n</p><p>Certidão de nascimento, cédula pessoal, boletim de nascimento ou bilhete de identidade. \n</p><p>\n</p><p>As matrículas e às inscrições decorrerão durante os dias úteis da semana, das 7h:30minutos às 15h:30minutos. \n</p><p>\n</p><p>A MATRÍCULA E A INSCRIÇÃO DA 1ª À 9ª CLASSE, ALFABETIZAÇÃO E EDUCAÇÃO DE ADULTOS É GRATUITA! NÃO SE PAGA! \n</p><p>\n</p><p>Vamo-nos Proteger da COVID-19, observando o distanciamento físico! \n</p><p>\n</p><p><i>“<b>Por Uma Educação Inclusiva, Patriótica e de Qualidade</b>”​</i></p>",
+          "text": "<p>Caros Pais e Encarregados de Educação!<br></p><p>\n</p><p>As matrículas dos novos ingressos para a 1ª classe do ano lectivo 2021, de todas as crianças, que completam 6 anos de idade em 2021, decorrem de 30 de Novembro de 2020 à 26 de Fevereiro de 2021. Poderão, de igual modo, matricular, nesta classe, todos aqueles com idade até 14 anos que, por qualquer razão, não puderam estudar nos anos anteriores. \n</p><p>\n</p><p>Para a 6ª, 8ª e 11ª classes, as matrículas decorrerão de 26 de Fevereiro de 2021 à 12 de Março de 2021. \n</p><p>\n</p><p>Os alunos internos da 2ª, 3ª, 4ª, 5ª, 7ª, 9ª, 10ª, 12ª classes, Alfabetização e Educação de Adultos realizam as inscrições de 4 de Janeiro de 2021 à 5 de Fevereiro de 2021. \n</p><p>\n</p><p>Caro Pai ou Encarregado de Educação!\n</p><p>\n</p><p>Dirija-se à escola mais próxima e matricule o seu filho ou educando, levando consigo um dos seguintes documentos: \n</p><p>\n</p><p>Certidão de nascimento, cédula pessoal, boletim de nascimento ou bilhete de identidade. \n</p><p>\n</p><p>As matrículas e às inscrições decorrerão durante os dias úteis da semana, das 7h:30minutos às 15h:30minutos. \n</p><p>\n</p><p>A MATRÍCULA E A INSCRIÇÃO DA 1ª À 9ª CLASSE, ALFABETIZAÇÃO E EDUCAÇÃO DE ADULTOS É GRATUITA! NÃO SE PAGA! \n</p><p>\n</p><p>Vamo-nos Proteger da COVID-19, observando o distanciamento físico! \n</p><p>\n</p><p><i><br></i></p><p><i>“<b>Por Uma Educação Inclusiva, Patriótica e de Qualidade</b>”​</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -817,7 +817,7 @@
             "inverse": false,
             "imageSize": "25",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20191025-134540-2000x1500.jpg",
             "parallax": false,
@@ -957,7 +957,7 @@
             "showCaptions": true,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
@@ -1170,8 +1170,8 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "48",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
             "parallax": true,
@@ -1364,7 +1364,7 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/estudantes-como-fazer-seu-pedido-de-bolsa-de-estudo-se-destacar.jpg",
@@ -1420,7 +1420,7 @@
             }
           },
           "text1": "Endereço<br>\nMoçambique-Nampula<br>\nCidade de Nampula<br><br>A Escola Secundária de Nampula localiza-se na cidade de Nampula, posto administrativo de\n<br>Muhala, no Bairro central urbano, na avenida Eduardo Mondlane<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:Assumanemartinho1@gmail.com\" class=\"text-info\">Assumanemartinho1@gmail.com</a><br>Telefone:<a href=\"tel: (+258) 848860596\" class=\"text-info\"> (+258) 848860596</a><br><br>@2021 Escola Secundária de Nampula, todos os direitos reservados",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:Assumanemartinho1@gmail.com\" class=\"text-info\">Assumanemartinho1@gmail.com</a><br>Telefone:<a href=\"tel: (+258) 848860596\" class=\"text-info\"> (+258) 848860596</a><br><br>@2021 Escola Secundária de Nampula, todos os direitos reservados<br><br>Assumane IT",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>",
           "_tags": [
             "Theme"
@@ -1628,50 +1628,12 @@
           "_anchor": "msg-box2-1k"
         },
         {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1u"
-        },
-        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showBullets": true,
             "bgColor": "#ffffff",
             "slides": [
@@ -1808,8 +1770,8 @@
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showBullets": true,
             "bgColor": "#ffffff",
             "slides": [
@@ -1963,7 +1925,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "20",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73448-2000x1500.jpeg",
@@ -2058,8 +2020,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": true,
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
             "parallax": true,
@@ -2232,7 +2194,7 @@
           "_params": {
             "showTitle": true,
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
             "parallax": true,
@@ -2672,8 +2634,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "24",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73450-2000x1500.jpeg",
             "parallax": false,
@@ -2815,7 +2777,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "24",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73449-2000x1500.jpeg",
@@ -2910,7 +2872,7 @@
             "showText": true,
             "showButton": true,
             "paddingTop": "0",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
             "parallax": true,
