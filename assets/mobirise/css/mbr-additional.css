@@ -29,6 +29,9 @@
 
 
 
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -46,9 +49,19 @@
   font-family: 'Lora', serif;
 }
 #slider-18 P {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Lora', serif;
   text-align: left;
+}
+#slider-18 H1 {
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+#slider-18 DIV {
+  font-family: 'Lora', serif;
+}
+#slider-18 I {
+  font-family: 'Lora', serif;
 }
 #msg-box3-2x .mbr-header .mbr-header__text {
   text-align: center;
@@ -59,7 +72,7 @@
   text-align: center;
 }
 #msg-box2-12 .mbr-header .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   text-align: left;
   font-size: 17px;
   font-family: 'Lora', serif;
@@ -108,7 +121,7 @@
   font-size: 15px;
 }
 #msg-box2-10 .mbr-header .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   font-size: 17px;
   font-family: 'Lora', serif;
 }
@@ -184,6 +197,7 @@
 #video2-2y SMALL {
   font-family: 'Lora', serif;
   font-size: 16px;
+  color: #000000;
 }
 #features1-2g P {
   font-family: 'Lora', serif;
@@ -228,7 +242,7 @@
   color: #252525;
 }
 #msg-box2-j .mbr-header .mbr-header__text {
-  color: #000000;
+  color: #ffffff;
   font-size: 17px;
   font-family: 'Lora', serif;
 }
@@ -244,12 +258,12 @@
   color: #fff;
 }
 #content5-14 .mbr-article {
-  color: #000000;
+  color: #fffcfc;
 }
 #content5-14 .mbr-article P {
   text-align: center;
   font-family: 'Lora', serif;
-  font-size: 15px;
+  font-size: 16px;
 }
 #contacts1-s P {
   font-family: 'Lora', serif;
@@ -259,7 +273,10 @@
 #social-buttons2-m .mbr-header__text {
   font-size: 14px;
   font-family: 'Lora', serif;
+  color: #fffcfc;
 }
+
+
 
 
 
@@ -299,7 +316,7 @@
   color: #ffffff;
 }
 #msg-box2-1k .mbr-header .mbr-header__text {
-  color: #252525;
+  color: #ffffff;
   font-family: 'Lora', serif;
   font-size: 17px;
   text-align: right;
@@ -307,8 +324,11 @@
 #msg-box2-1k .mbr-article {
   color: #252525;
 }
+#slider-2i I {
+  font-family: 'Lora', serif;
+}
 #msg-box2-1j .mbr-header .mbr-header__text {
-  color: #252525;
+  color: #ffffff;
   font-size: 17px;
   font-family: 'Lora', serif;
   text-align: right;
@@ -317,7 +337,11 @@
   color: #252525;
 }
 #slider-2j P {
-  color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+#slider-2j I {
+  font-family: 'Lora', serif;
 }
 
 

@@ -19,7 +19,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": false,
-    "uniqCompNum": 122,
+    "uniqCompNum": 125,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -114,85 +114,85 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20190910-73140-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Escola Secundária de Nampula</i>",
                 "contentAlign": "left",
-                "text": "<br><br><br><br><br><br>Vista Frontal da Escola&nbsp;",
+                "text": "<br><br><i><b>Modernidade</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#2969b0"
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190910-73342-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showText": true,
+                "showTitle": true,
+                "title": "<br><div><i>Escola Secundária de Nampula</i></div>",
                 "contentAlign": "left",
-                "text": "<br><br><br>Portao de Entrada Principal",
+                "text": "<br><br><i><b>Transparência</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.4",
-                "overlayColor": "#2969b0"
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190910-73447-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\"><br></span><i>Escola Secundária de Nampula</i>",
                 "contentAlign": "center",
-                "text": "<br><br><br>Vista Lateral Direito",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#2969b0"
+                "text": "<br><br><i><b>Inovação </b></i>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#msg-box2-12\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Sobre nós</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-134445-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "center",
-                "text": "<br><br><br>Bloco de Salas de aulas",
+                "showText": true,
+                "showTitle": true,
+                "title": "&nbsp;<i>Escola Secundária de Nampula</i>",
+                "contentAlign": "right",
+                "text": "<br><br><i><b>Responsabilidade</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#2969b0"
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-134540-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Escola Secundária de &nbsp; Nampula</i>",
                 "contentAlign": "right",
-                "text": "Dentro do recinto escolar",
+                "text": "<i><b><br></b></i><br><i><b>Respeito as Diferenças</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#2969b0"
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-134757-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Escola Secundária de Nampula</i>",
                 "contentAlign": "left",
-                "text": "<br><br>Vista Frontal e do Portao de entrada Principal",
+                "text": "<i><b><br></b></i><br><i><b>Comprometimento </b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
-                "overlayOpacity": "0.2",
-                "overlayColor": "#2969b0"
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000"
               }
             ]
           },
@@ -204,10 +204,23 @@
           "_anchor": "slider-18",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "text-align": "left"
+            },
+            "H1": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },
@@ -259,7 +272,7 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "text-align": "left",
               "font-size": "17px",
               "font-family": "'Lora', serif",
@@ -605,7 +618,7 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "17px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -935,7 +948,8 @@
             "SMALL": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1300,7 +1314,7 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "17px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
@@ -1363,13 +1377,13 @@
               "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#000000"
+              "color": "#fffcfc"
             },
             ".mbr-article P": {
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1474,7 +1488,8 @@
             ".mbr-header__text": {
               "font-size": "14px",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#fffcfc"
             }
           }
         }
@@ -1586,8 +1601,8 @@
             },
             "darkBackground": false,
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
           "title": "Quadro de Honra",
           "meta": "By John Smith posted July 30, 2015",
@@ -1603,7 +1618,7 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#252525",
+              "color": "#ffffff",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "17px",
@@ -1653,13 +1668,13 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-133819-burst001-cover-2-2000x1205.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -1677,11 +1692,11 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-133913-burst001-cover-2-2000x1382.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "contentAlign": "left",
+                "text": "<i>Abertura da ETG&nbsp;</i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -1719,13 +1734,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-134209-1853x1308.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "<i><b>Visita do presidente da republica a provincia de Nampula</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -1735,13 +1750,19 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-2i"
+          "_anchor": "slider-2i",
+          "_styles": {
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#252525",
+              "color": "#ffffff",
               "font-size": "17px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
@@ -1797,7 +1818,7 @@
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "left",
-                "text": "Participação da escola nos jogos escolares",
+                "text": "<i><b>Participação da escola nos jogos escolares</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               },
@@ -1805,11 +1826,11 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-133725-2000x1295.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "contentAlign": "left",
+                "text": "<i><b>Termino dos jogos escolares</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               },
@@ -1817,11 +1838,11 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-133612-burst001-cover-1-2000x1379.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "<i><b>Entrada do Presidente da Republica no campo</b></i><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               },
@@ -1829,11 +1850,11 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-133658-copia-2000x1076.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "<i><b>Retirada do Presidente da Republica na cerimonia dos jogos escolares</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               },
@@ -1841,11 +1862,11 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20191025-133812-2000x1076.jpg",
                 "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "title": "Slide 1",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "<i><b>Equipe femenina</b></i>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "alt": ""
               }
@@ -1859,7 +1880,12 @@
           "_anchor": "slider-2j",
           "_styles": {
             "P": {
-              "color": "#000000"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         }
@@ -1951,8 +1977,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2151,8 +2177,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2356,8 +2382,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2377,6 +2403,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "Mobirise2",
               "link": "",
               "size": 0
             }
@@ -2502,7 +2531,7 @@
             }
           },
           "title3": "11ª Classe",
-          "caption3": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1YsGM2p4H0pKxKToVqZ_qRMD61agMhUIA\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br>Português \n<br><a href=\"https://estudosmz.blogspot.com/2021/01/baixar-livro-de-geografia-11-classe-pre.html\" class=\"text-primary\" target=\"_blank\">Geografia </a>\n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=12PNrMzrg0UzYLL_j279Ciyvwq-6UJK7Z\" class=\"text-primary\" target=\"_blank\">Inglês </a>\n<br>Física \n<br>Química \n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1D3BWR9BS0byTvhSg0KoSU_q5UbE3Ianh\" class=\"text-primary\" target=\"_blank\">Biologia </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1We61_FX0VP0N6lV9Wcj3pCUKEiiOPm3R\" class=\"text-primary\" target=\"_blank\">Filosofia </a>\n<br>História \n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1nvzrIw10TLNBr6ibz-7PD5aQsT1K8IE5\" class=\"text-primary\" target=\"_blank\">TICs</a>",
+          "caption3": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1YsGM2p4H0pKxKToVqZ_qRMD61agMhUIA\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br><a href=\"http://download1574.mediafire.com/ajnsyphnokgg/1ck1cjvh9j8t1ro/Portugues+11%C2%AA++Classe+%28MozAprende.blogspot.com%29.pdf\" target=\"_blank\">Português </a>\n<br><a href=\"https://estudosmz.blogspot.com/2021/01/baixar-livro-de-geografia-11-classe-pre.html\" class=\"text-primary\" target=\"_blank\">Geografia </a>\n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=12PNrMzrg0UzYLL_j279Ciyvwq-6UJK7Z\" class=\"text-primary\" target=\"_blank\">Inglês </a>\n<br><a href=\"https://drive.google.com/file/d/1U2yGfh6cCU6XJ5AjYm_w3yiyNWM8Ziup/view\" target=\"_blank\" class=\"text-black\">Física </a>\n<br><a href=\"https://download1011.mediafire.com/qp1gxt9t985g/y0e68t4r0pjxyya/Quimica+11%C2%AA++Classe+%28MozAprende.blogspot.com%29.pdf\" target=\"_blank\">Química </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1D3BWR9BS0byTvhSg0KoSU_q5UbE3Ianh\" class=\"text-black\" target=\"_blank\">Biologia </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1We61_FX0VP0N6lV9Wcj3pCUKEiiOPm3R\" class=\"text-primary\" target=\"_blank\">Filosofia </a>\n<br>História \n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1nvzrIw10TLNBr6ibz-7PD5aQsT1K8IE5\" class=\"text-primary\" target=\"_blank\">TICs</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2522,7 +2551,7 @@
             }
           },
           "title4": "12ª Classe",
-          "caption4": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1-gW-8HQp0GHA-9RndNGgYGoy3hQO_4cH\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1KGEVeNpIzsjtNN9zJ71rzVH87Sk4McFy\" class=\"text-primary\" target=\"_blank\">Português </a>\n<br><a href=\"https://drive.google.com/uc?id=1pPDeS_LxyDo9xjRQn0tH1U-8TJa8ULPt&amp;export=download\" class=\"text-primary\" target=\"_blank\">Geografia </a>\n<br>Inglês \n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1fNkWBQioKEXtTvengzKxDRDIMAfHZ93_\" class=\"text-primary\" target=\"_blank\">Física </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1awi3tWNMOt0B0q0CPsmCeBQpcGNggVvu\" class=\"text-primary\" target=\"_blank\">Química </a>\n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1CmM-ZMkSTXNvEAVoSYLXu6uxv4-JIZqE\" class=\"text-primary\" target=\"_blank\">Biologia </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1I39dJYRmqRcRJcRrIQSSQEBKeEjyu_gg\" class=\"text-primary\" target=\"_blank\">Filosofia </a>\n<br>História \n<br><a href=\"https://download2038.mediafire.com/o3bfnhrjkldg/fomelpaghm4hifh/Desenho+e+Geometria+Descritiva+%28DGD%29+-+12%C2%AA+Classe.pdf\" class=\"text-primary\" target=\"_blank\">Desenho Geometria Descritiva</a>",
+          "caption4": "<a href=\"https://docs.google.com/uc?export=download&amp;id=1-gW-8HQp0GHA-9RndNGgYGoy3hQO_4cH\" class=\"text-primary\" target=\"_blank\">Matemática </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1KGEVeNpIzsjtNN9zJ71rzVH87Sk4McFy\" class=\"text-primary\" target=\"_blank\">Português </a>\n<br><a href=\"https://drive.google.com/uc?id=1pPDeS_LxyDo9xjRQn0tH1U-8TJa8ULPt&amp;export=download\" class=\"text-primary\" target=\"_blank\">Geografia </a>\n<br><a href=\"http://download1803.mediafire.com/lpo9k5cxwyeg/m5y4b9zpkhz3cc9/Ingl%C3%AAs+12%C2%AA+Classe+%28Textos+Editores%29+MozAprende.blogspot.com.pdf\" target=\"_blank\">Inglês</a> \n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1fNkWBQioKEXtTvengzKxDRDIMAfHZ93_\" class=\"text-primary\" target=\"_blank\">Física </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1awi3tWNMOt0B0q0CPsmCeBQpcGNggVvu\" class=\"text-primary\" target=\"_blank\">Química </a>\n<br><a href=\"https://drive.google.com/uc?export=download&amp;id=1CmM-ZMkSTXNvEAVoSYLXu6uxv4-JIZqE\" class=\"text-primary\" target=\"_blank\">Biologia </a>\n<br><a href=\"https://docs.google.com/uc?export=download&amp;id=1I39dJYRmqRcRJcRrIQSSQEBKeEjyu_gg\" class=\"text-primary\" target=\"_blank\">Filosofia </a>\n<br><a href=\"http://download746.mediafire.com/k0fo4pkx8heg/0tb2zds0tab0mlc/Hist%C3%B3ria+de+Mo%C3%A7ambique+-+12%C2%AA+Classe+%28MozAprende.blogspot.com%29.pdf\" target=\"_blank\">História </a>\n<br><a href=\"https://download2038.mediafire.com/o3bfnhrjkldg/fomelpaghm4hifh/Desenho+e+Geometria+Descritiva+%28DGD%29+-+12%C2%AA+Classe.pdf\" class=\"text-primary\" target=\"_blank\">Desenho Geometria Descritiva</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2663,8 +2692,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2806,8 +2835,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
